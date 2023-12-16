@@ -1,0 +1,8 @@
+# .DStore
+.DStore
+
+# python
+__pycache__/
+
+# node
+node_modules/
